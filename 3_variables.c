@@ -31,6 +31,11 @@ int main()
 
    int num;
    num=25;
+   int num1=30;
    printf("number: %d\n", num);
+   printf("number1: %d\n", num1);
+   
    return 0;
+
+
 }
