@@ -14,6 +14,6 @@ int main()
        age=21;  
        price=25.55;    
        printf("Age= %d\n", age);
-       printf("Price= %d", price); //as you can see here, although I gave an input of float nunmber but output is an Integer; because of the format specifier
+       printf("Price= %d", price); //as you can see here, although I gave an input of float nunmber but output is an Integer; because of the format specifier.
        return 0;
 }
