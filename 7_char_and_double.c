@@ -1,10 +1,11 @@
+// Create a double variable named number with value 86.99. Create a character variable named letter with value 'z'
 
 #include <stdio.h>
 
 int main()
 {
   
-    float number;
+    double number;
     char letter;
     number=86.99;
     letter='z';
