@@ -1,13 +1,16 @@
-#include<stdio.h>
-int main()
-{
-    int num1;
-    num1 = 15;
-    printf("%d, num1");
+#include <stdio.h>
 
-    int num2=28;
+// Create an integer variable named distance with value 135. Print the distance variable. Create another integer variable named newDistance with value 429.
 
-    num1 = num2;
-    printf("%d", num1);
-    return 0;
+int main() {
+    int distance;
+    distance=135;
+    printf("%d", distance);
+    
+    int newDistance=429;
+    
+    distance=newDistance;
+    
+    printf("  %d", distance);
+
 }
