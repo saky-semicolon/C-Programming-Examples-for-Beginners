@@ -16,6 +16,6 @@ int main()
 
 /*
 
-            a+b=7;          here a and b are the operand, and + and = are the operators and 7 is the constant. and the whole this is called expression.
+            a+b=7;        --> here a and b are the operand, and + and = are the operators and 7 is the constant. and the whole this is called expression.
 
 */
